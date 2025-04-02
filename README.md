@@ -21,7 +21,7 @@
 
 ### 🧠 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,sqlite,github,git,vscode,apple,windows,premiere,postgres,bash,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres,github,git,vscode,apple,windows,premiere,bash,azure)](https://skillicons.dev)
 
 - **Languages & Tools**: Python, SQL (Postgres & SQLite, Excel (Advanced), Power BI, Git/GitHub, VS Code, Bash (Terminal), macOS & Windows, Adobe Premiere Pro, Adobe Photoshop/Lightroom
 - **Interests**: Data Analytics • Automation • Financial Modeling • Dashboarding  
